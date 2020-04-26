@@ -9,7 +9,7 @@
 </p>
 
 [![https://t.me/xruin](https://img.shields.io/badge/sponsors-0-brightgreen)](https://t.me/xruin)
-[![cov3d-mask](https://img.shields.io/github/license/xbaysal11/cov3d-mask)](https://github.com/xbaysal11/cov3d-mask)
+[![cov3d-mask-license](https://img.shields.io/github/license/xbaysal11/cov3d-mask)](https://github.com/xbaysal11/cov3d-mask)
 [![Github](https://img.shields.io/github/followers/xbaysal11?style=social)](https://github.com/xbaysal11)
 [![cov3d-mask](https://img.shields.io/github/stars/xbaysal11/cov3d-mask?style=social)](https://github.com/xbaysal11/cov3d-mask)
 [![https://t.me/xruin](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-xruin-blue.svg)](https://t.me/xruin)
